@@ -12,8 +12,7 @@ The knapsack problem is a classic problem in combinatorial optimization. We are 
 
 1. Clone the project: 
 ```bash
-$ git clone https://github.com/Gabriel-Bastos-Rabelo/Final-Work-LP1.git or https://github.com/GabrielBeloDev/Final-Work-LP1.git
-```
+$  git clone https://github.com/GabrielBeloDev/Final-Work-LP1-UFMA.git ```
 2. Navigate to the project directory.
 3. Compile the C code.
 ```bash
